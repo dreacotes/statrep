@@ -1,1 +1,6 @@
-select 'test for HD SUPPLY'
+rem  ****************************************************************
+rem  TEST SQL SCRIPT.
+rem  
+rem  SQL > 'SELECT STATEMENT HERE' 
+rem
+rem  ***************************************************************
